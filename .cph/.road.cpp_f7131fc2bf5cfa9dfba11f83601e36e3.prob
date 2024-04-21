@@ -1,0 +1,1 @@
+{"name":"Local: road","url":"/Users/vaibhavsharma/Desktop/DynamicProgramming/road.cpp","tests":[{"id":1710313101300,"input":"4 10 2\n0 3 4 8\n5 8 3 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/vaibhavsharma/Desktop/DynamicProgramming/road.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"/Users/vaibhavsharma/Desktop/DynamicProgramming/C. Add One.cpp","tests":[{"id":1712893588235,"input":"5\n1912 1\n5 6\n999 1\n88 2\n12 100\n","output":"5\n2\n6\n4\n2115\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/vaibhavsharma/Desktop/DynamicProgramming/C. Add One.cpp","group":"local","local":true}

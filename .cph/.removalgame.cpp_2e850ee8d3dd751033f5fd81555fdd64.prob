@@ -1,0 +1,1 @@
+{"name":"Local: removalgame","url":"/Users/vaibhavsharma/Desktop/DynamicProgramming/removalgame.cpp","tests":[{"id":1706966840412,"input":"10\n-5 5 9 -4 10 -9 0 3 2 -6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/vaibhavsharma/Desktop/DynamicProgramming/removalgame.cpp","group":"local","local":true}
